@@ -1,1 +1,1 @@
-//for headers
+//for headers and constants
